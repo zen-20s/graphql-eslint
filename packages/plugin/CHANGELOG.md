@@ -1,5 +1,15 @@
 # @graphql-eslint/eslint-plugin
 
+## 0.5.0
+
+### Minor Changes
+
+- 35b1ff3: Allow to load siblings operations
+
+### Patch Changes
+
+- 35b1ff3: fix(parser): better performance, make sure schema is loaded and cached
+
 ## 0.4.4
 
 ### Patch Changes
